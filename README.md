@@ -1,4 +1,4 @@
-# Welcome to [Md Soyab Akhter Sadik's](https://soyabsadik2006.wixsite.com/soyabsadik) profile! <a href="https://soyabsadik2006.wixsite.com/soyabsadik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to Md Soyab Akhter Sadik's profile! <a href="https://soyabsadik2006.wixsite.com/soyabsadik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <a href="https://www.linkedin.com/in/mrsadik2175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsadik2175" height="30" width="40" /></a>
 &nbsp;
@@ -9,70 +9,79 @@
 <a href="https://www.facebook.com/mr.sadik2175" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.sadik2175" height="30" width="40" /></a>
 &nbsp;
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=SoyabSadik.SoyabSadik)
+## Glad you stopped by! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrsadik2175.mrsadik2175)
 
-I am a **Cybersecurity enthusiast** and aspiring **Cyber Security Analyst**. I love exploring **ethical hacking, web security, and secure coding**. I build, break, and secure systems to make the digital world safer.  
+I’m **Md Soyab Akhter Sadik** — a Cybersecurity enthusiast focused on ethical hacking, web security, and secure software development. I research, prototype, and harden real-world systems: from web apps to network stacks.  
+My work balances offensive testing with practical defensive improvements.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
-
-### Talking about Personal Stuff:
-
-- 👨‍🎓 I'm currently pursuing **BSc in CSE**  
-- 🔭 I’m building projects on **Web Security, Python, Linux, and Networking**  
-- 💬 Ask me about **Cybersecurity, Ethical Hacking, Python, Linux, and Web Security**  
-- 🌱 I'm currently learning **Advanced Cybersecurity, Ethical Hacking, and Defensive Security Techniques**  
-- 📫 How to reach me: [mr.sadik2175@gmail.com](mailto:mr.sadik2175@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mrsadik2175)
+<!-- Hacking / Cybersecurity vibe animation (right aligned) -->
+<img align="right" alt="Cybersecurity Animation" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="380" />
 
 ---
 
-## 🛠️ My Favourite Tools
+### Quick intro
+- 👨‍🎓 Currently pursuing **BSc in CSE**  
+- 🔭 Working on projects related to **Web Security, Secure Dev practices, Python tooling, and Networking**  
+- 🌱 Learning **Advanced Cybersecurity, Defensive Security, and Threat Hunting**  
+- 💬 Ask me about **Web Security, Python for security tools, Linux, and network analysis**  
+- 📫 Reach me: **[mr.sadik2175@gmail.com](mailto:mr.sadik2175@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/mrsadik2175)
 
-### 👨‍💻 Programming Languages
+---
+
+## 🛠️ Tools & Tech I Use
+### Languages & Scripting
 <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 </p>
 
-### 🧰 Tools & Frameworks
+### Security & Networking
 <p>
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"></a>
-    <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1080FF?logo=wireshark&logoColor=white"></a>
-    <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-9BE200?logo=nmap&logoColor=black"></a>
+  <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"></a>
+  <a href="#"><img alt="Nmap" src="https://img.shields.io/badge/Nmap-9BE200?logo=nmap&logoColor=black"></a>
+  <a href="#"><img alt="Wireshark" src="https://img.shields.io/badge/Wireshark-1080FF?logo=wireshark&logoColor=white"></a>
+  <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-CE0000?logo=metasploit&logoColor=white"></a>
 </p>
 
-### 🌐 Networking & Security Tools
+### Dev & Productivity
 <p>
-    <a href="#"><img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=white"></a>
-    <a href="#"><img alt="Metasploit" src="https://img.shields.io/badge/Metasploit-CE0000?logo=metasploit&logoColor=white"></a>
+  <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 Stats
+## 🔭 Selected Projects
+> Short showcase — add links to these repos once they exist.
 
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since 2023</b>
+- **secure-web-template** — A minimal, hardened web app scaffold with authentication and OWASP mitigation notes.  
+- **net-scan-helpers** — Small Python tooling to streamline Nmap and network enumeration results.  
+- **ctf-writeups** — Practical writeups and scripts from Capture-The-Flag challenges I solve for practice.
 
-<details>
-  <summary>&nbsp;&nbsp;<b>😺 GitHub stats & most used languages</b></summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="SoyabSadik's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SoyabSadik&show_icons=true&count_private=true&theme=react&hide_border=true" height="172px"/>
-    <img alt="SoyabSadik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyabSadik&langs_count=6&layout=compact&theme=react&hide_border=true" height="172px"/>
-  </a>
-</details>
+*(I can add project cards/links here if you provide repo URLs.)*
 
 ---
 
-## 📕 Latest Blog Posts / Learning
-- [Cybersecurity Basics for Beginners](#)
-- [Ethical Hacking 101](#)
-- [Python for Security](#)
-- [Building Secure Web Apps](#)
+## 📊 GitHub Stats & Activity
+[![Soyab's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrsadik2175&show_icons=true&count_private=true&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrsadik2175&layout=compact&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-*“Strengthen systems. Secure the future.”*
+## 📕 Learning / Blog
+- Cybersecurity notes & learning resources (will update with posts)  
+- Tutorials: Python tooling for security, basic pentest workflows, secure deployment guidance
+
+---
+
+> **Mission:** Strengthen systems. Secure the future.
+
+---
+
+**Minor notes / how to personalize further:**  
+- Replace the animated GIF URL if you prefer a different visual (I used a public “matrix/hacker” style GIF).  
+- Add real project links under *Selected Projects* to showcase your work.  
+- If you want, I can produce a projects grid / badges for each repo and auto-update WakaTime or streak widgets for `mrsadik2175`.
