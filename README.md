@@ -19,7 +19,6 @@ My work balances offensive testing with practical defensive improvements.
 
 ---
 
-
 ### Quick intro
 - 👨‍🎓 Currently pursuing **BSc in CSE**  
 - 🔭 Working on projects related to **Web Security, Secure Dev practices, Python tooling, and Networking**  
