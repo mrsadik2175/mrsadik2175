@@ -9,13 +9,13 @@
 <a href="https://www.facebook.com/mr.sadik2175" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mr.sadik2175" height="30" width="40" /></a>
 &nbsp;
 
-## Glad you stopped by! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrsadik2175.mrsadik2175)
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrsadik2175.mrsadik2175)
 
 I’m **Md Soyab Akhter Sadik** — a Cybersecurity enthusiast focused on ethical hacking, web security, and secure software development. I research, prototype, and harden real-world systems: from web apps to network stacks.  
 My work balances offensive testing with practical defensive improvements.
 
 <!-- Hacking / Cybersecurity vibe animation (right aligned) -->
-<img align="right" alt="Cybersecurity Animation" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="380" />
+<img align="right" alt="Cybersecurity Animation" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="408" height="318" />
 
 ---
 
