@@ -1,6 +1,6 @@
 # Welcome to Md Soyab Akhter Sadik's profile! <a href="https://soyabsadik2006.wixsite.com/soyabsadik"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/mrsadik2175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsadik2175" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sadik2175/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrsadik2175" height="30" width="40" /></a>
 &nbsp;
 <a href="https://x.com/mrsadik2175" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrsadik2175" height="30" width="40" /></a>
 &nbsp;
@@ -15,7 +15,7 @@ I’m **Md Soyab Akhter Sadik** — a Cybersecurity enthusiast focused on ethica
 My work balances offensive testing with practical defensive improvements.
 
 <!-- Hacking / Cybersecurity vibe animation (right aligned) -->
-<img align="right" alt="Cybersecurity Animation" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="408" height="318" />
+<img align="right" alt="Cybersecurity Animation" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czZmcGVkY3JpZGdsdWVtZTFyaGszejh4bG4xeGpwODdobGlhb2NvaSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/wiTY1JMB6xvUUjuPRH/giphy.gif" width="408" height="318" />
 
 ---
 
@@ -24,7 +24,7 @@ My work balances offensive testing with practical defensive improvements.
 - 🔭 Working on projects related to **Web Security, Secure Dev practices, Python tooling, and Networking**  
 - 🌱 Learning **Advanced Cybersecurity, Defensive Security, and Threat Hunting**  
 - 💬 Ask me about **Web Security, Python for security tools, Linux, and network analysis**  
-- 📫 Reach me: **[mr.sadik2175@gmail.com](mailto:mr.sadik2175@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/mrsadik2175)
+- 📫 Reach me: **[mr.sadik2175@gmail.com](mailto:mr.sadik2175@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/sadik2175)
 
 ---
 
@@ -61,8 +61,6 @@ My work balances offensive testing with practical defensive improvements.
 - **net-scan-helpers** — Small Python tooling to streamline Nmap and network enumeration results.  
 - **ctf-writeups** — Practical writeups and scripts from Capture-The-Flag challenges I solve for practice.
 
-*(I can add project cards/links here if you provide repo URLs.)*
-
 ---
 
 ## 📊 GitHub Stats & Activity
@@ -80,8 +78,3 @@ My work balances offensive testing with practical defensive improvements.
 > **Mission:** Strengthen systems. Secure the future.
 
 ---
-
-**Minor notes / how to personalize further:**  
-- Replace the animated GIF URL if you prefer a different visual (I used a public “matrix/hacker” style GIF).  
-- Add real project links under *Selected Projects* to showcase your work.  
-- If you want, I can produce a projects grid / badges for each repo and auto-update WakaTime or streak widgets for `mrsadik2175`.
