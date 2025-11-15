@@ -15,7 +15,6 @@ I’m **Md Soyab Akhter Sadik** — a Cybersecurity enthusiast focused on ethica
 My work balances offensive testing with practical defensive improvements.
 
 <!-- Hacking / Cybersecurity vibe animation (right aligned) -->
-<img align="right" alt="Cybersecurity Animation" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXZpcmh3Y2k3Z2M3Zjdub2Z0dTdtbjFscHQ3NnJtMWx0NDhqbjd1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GFLB1pCmhgvIDSJTvp/giphy.gif" width="408" height="318" />
 
 ---
 
